@@ -21,3 +21,17 @@
     background-color: rgb(230, 158, 91);
     color: white;
   }
+  .section1 {
+    font-size: x-large;
+    text-align: center;
+    
+  }  
+  .section2 {
+  text-align: center;
+  margin: 40px 100px 100px 40px;
+}  
+.section3 {
+  text-align: center;
+  font-size: large;
+  margin: 40px 100px 0px 10px;
+}  
